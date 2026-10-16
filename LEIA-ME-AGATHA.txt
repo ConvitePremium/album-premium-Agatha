@@ -1,0 +1,6 @@
+ÁLBUM DA AGATHA — Lilás predominante e prata
+
+ID do evento no Supabase: agatha-15-anos
+Cadastre este mesmo ID no Painel Administrativo.
+A moldura assets/moldura.png foi preservada do ZIP original; substitua-a pela moldura da Agatha antes de divulgar.
+O código de publicação e a conexão Supabase foram mantidos. Faça teste real no celular após publicar no GitHub Pages.
